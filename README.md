@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- [HakPad](https://github.com/garthhumphreys/hakpad) (Note-taking app for hacking, bug bounty and security assessments) and;
+- [HakPad](https://hakpad.io) (Note-taking app for hacking, bug bounty and security assessments) (submit your feature requests [here](https://github.com/garthhumphreys/hakpad-feature-requests))and;
 - [HealthWatch](https://www.healthwatch.ky/) (web app that monitors the public health status of the Cayman Islands)
 
 🌱 I’m currently learning:
