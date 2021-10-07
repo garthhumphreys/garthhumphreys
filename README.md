@@ -13,7 +13,7 @@
 
 🤔 I’m looking for help with development on [HakPad](https://hakpad.io) and [HealthWatch](https://www.healthwatch.ky/)
 
-💬 Ask me about web development (https://garthhumphreys.com), football (FC Barcelona) and music production (https://garthhumphreysmusic.com/)
+💬 Ask me about web development (https://garthhumphreys.com), football (FC Barcelona) and music production (https://www.youtube.com/channel/UCYQb0P7YckJoqIrTVm411-w)
 
 📫 How to reach me: [@garthhumphreys](https://twitter.com/garthhumphreys) or [garthhumphreys@gmail.com](mailto:garthhumphreys@gmail.com)
 
