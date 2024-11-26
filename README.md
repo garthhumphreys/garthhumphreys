@@ -15,7 +15,7 @@
 - Source code analysis
 - Threat Modeling
 - CodeQL
-- [Vulnerability Research](https://vulnerabilityresearch.hakpad.io/?ref=github.com/garthhumphreys)
+- Vulnerability Research
 
 💬 Ask me about Hacking, Football (FC Barcelona) and Music Production https://garthhumphreysmusic.com/
 
